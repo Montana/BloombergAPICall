@@ -6,6 +6,6 @@ ruby bloombergapicall</pre>
 
 [linkname](https://asciinema.org/a/4m47e19rfoq84893g2vbu0qx6)
 
-[![Instructions](https://asciinema.org/a/4m47e19rfoq84893g2vbu0qx6)](https://asciinema.org/a/4m47e19rfoq84893g2vbu0qx6 "API")
+(https://asciinema.org/a/4m47e19rfoq84893g2vbu0qx6)](https://asciinema.org/a/4m47e19rfoq84893g2vbu0qx6)
 
 Written by <a href="http://www.montanamendy.com">Montana Mendy</a>.
