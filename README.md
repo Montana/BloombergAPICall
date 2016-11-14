@@ -3,3 +3,5 @@ Ruby script that calls the Bloomberg Markets API, if running in terminal it will
 
 <pre>chmod u+x bloombergapicall
 ruby bloombergapicall</pre>
+
+Written by <a href="http://www.montanamendy.com">Montana Mendy</a>.
