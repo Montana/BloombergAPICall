@@ -3,7 +3,7 @@ require 'httparty'
 
 class Bloomberg
     include HTTParty
-    base_uri "http://api.bloomberg.com/"
+    base_uri "https://www.bloomberg.com/markets"
 
     def posts
         self.class.get('/posts.json')
